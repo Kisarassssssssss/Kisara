@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -Wpedantic -g -g -O0 -Wl,--dependency-file=CMakeFiles/MyProject.dir/link.d CMakeFiles/MyProject.dir/src/main.c.o CMakeFiles/MyProject.dir/src/math.c.o CMakeFiles/MyProject.dir/src/print.c.o -o MyProject

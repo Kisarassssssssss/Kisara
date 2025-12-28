@@ -1,0 +1,3 @@
+/home/kisara/CS code/cpp_c/demo_test/build/CMakeFiles/MyProject.dir
+/home/kisara/CS code/cpp_c/demo_test/build/CMakeFiles/edit_cache.dir
+/home/kisara/CS code/cpp_c/demo_test/build/CMakeFiles/rebuild_cache.dir
